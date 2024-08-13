@@ -35,11 +35,6 @@ Project Structure:
 2. src/App.css: Contains the styling for the components(for Tailwind CSS dependencies, usually worked with Tailwind CSS within App.jsx(className))
 
 
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
-Acknowledgements
-This project was created with the help of React.js.
-Inspired by various online password generator tools.
 
 
