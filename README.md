@@ -42,4 +42,4 @@ Acknowledgements
 This project was created with the help of React.js.
 Inspired by various online password generator tools.
 
-Replace `https://github.com/yourusername/password-generator.git` with the actual URL of your GitHub repository. This `README.md` file provides a clear overview of the project, installation instructions, usage guidelines, and other essential details.
+
